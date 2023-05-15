@@ -1,2 +1,2 @@
 import streamlit
-streamlit.title('I love fired Momos')
+streamlit.title('I love fried Momos')
